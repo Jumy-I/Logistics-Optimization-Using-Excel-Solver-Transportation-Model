@@ -1,13 +1,13 @@
 # Logistics-Optimization-Using-Excel-Solver-Transportation-Model-
 
-# 📦 Logistics Optimization Using Excel Solver (Transportation Model)
-
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates how Excel Solver can be used to optimize product shipments from multiple warehouses to multiple retail stores while minimizing total transportation distance. The goal was to meet all store demand without exceeding warehouse inventory, using linear optimization techniques.
 
+## Before Optimization
+<img width="1913" height="984" alt="Image" src="https://github.com/user-attachments/assets/1fe75ad1-1aad-465f-a305-e53c5bb370f0" />
 
-## 🎯 Business Problem
+##  Business Problem
 
 A company operates:
 
