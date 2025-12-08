@@ -7,6 +7,10 @@ This project demonstrates how Excel Solver can be used to optimize product shipm
 ## Before Optimization
 <img width="1913" height="984" alt="Image" src="https://github.com/user-attachments/assets/1fe75ad1-1aad-465f-a305-e53c5bb370f0" />
 
+## After Optimization
+<img width="1913" height="1030" alt="Image" src="https://github.com/user-attachments/assets/24446ecf-15ac-4f47-80b6-11313f8d111d" />
+
+
 ##  Business Problem
 
 A company operates:
@@ -24,14 +28,14 @@ The challenge was to determine:
 
 
 
-## 🛠 Tools Used
+## Tools Used
 
 * Microsoft Excel
 * Excel Solver (Optimization Add-in)
 * SUMPRODUCT formula for cost calculation
 
 
-## 📊 Model Structure
+##  Model Structure
 
 ### 1. Demand Table
 
@@ -70,6 +74,7 @@ Solver was run using the **Simplex LP method**.
 
 
 ##  Results (Optimized Solution)
+<img width="1913" height="1030" alt="Image" src="https://github.com/user-attachments/assets/24446ecf-15ac-4f47-80b6-11313f8d111d" />
 
 Solver automatically assigned shipment quantities so that:
 
