@@ -1,4 +1,4 @@
-# Logistics-Optimization-Using-Excel-Solver-Transportation-Model-
+# Logistics-Optimization-Using-Excel-Solver-Transportation-Model
 
 ##  Project Overview
 
