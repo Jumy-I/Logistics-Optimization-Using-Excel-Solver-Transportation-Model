@@ -97,7 +97,7 @@ This resulted in a highly efficient distribution plan with **minimum transportat
 
 ##  Key Takeaway
 
-This project shows how Excel Solver can be used for ** logistics optimization**, helping businesses cut transportation costs while maintaining service levels.
+This project shows how Excel Solver can be used for logistics optimization, helping businesses cut transportation costs while maintaining service levels.
 
 
 
